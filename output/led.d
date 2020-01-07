@@ -1,0 +1,15 @@
+..\output\led.o: ..\user\led\led.c
+..\output\led.o: ..\user\led\led.h
+..\output\led.o: ..\libraries\CMSIS\stm32f10x.h
+..\output\led.o: ..\libraries\CMSIS\core_cm3.h
+..\output\led.o: D:\keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\output\led.o: ..\libraries\CMSIS\system_stm32f10x.h
+..\output\led.o: ..\user\stm32f10x_conf.h
+..\output\led.o: ..\libraries\FWlib\inc\stm32f10x_flash.h
+..\output\led.o: ..\libraries\CMSIS\stm32f10x.h
+..\output\led.o: ..\libraries\FWlib\inc\stm32f10x_gpio.h
+..\output\led.o: ..\libraries\FWlib\inc\stm32f10x_rcc.h
+..\output\led.o: ..\libraries\FWlib\inc\stm32f10x_spi.h
+..\output\led.o: ..\libraries\FWlib\inc\stm32f10x_tim.h
+..\output\led.o: ..\libraries\FWlib\inc\stm32f10x_usart.h
+..\output\led.o: ..\libraries\FWlib\inc\misc.h
